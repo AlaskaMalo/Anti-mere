@@ -55,6 +55,11 @@ name = "À propos"
 url = "/about/"
 weight = 5
 
+[[menu.nav]]
+name = "Crédits"
+url = "/credits/"
+weight = 6
+
 [markup]
 defaultMarkdownHandler = "goldmark"
 
