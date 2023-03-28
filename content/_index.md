@@ -3,6 +3,29 @@ date: "2017-06-26T18:27:58+01:00"
 title: "Accueil"
 ---
 
-Bienvenue dans la page de présentation du Modèle 2. 
+Dad, avant que tu lises ces pages
 
-Thème à partir du projet [original Cupper](https://github.com/ThePacielloGroup/cupper).
+Saches que je sais que tu as aimé ces gens
+
+Ils ont fait partie de ta vie
+
+En dix-sept ans, tu t’es attaché aux enfants
+
+Mais la douleur reste
+
+Encrée en moi
+
+
+Lacelle, ça s’adresse à toi
+
+Tu seras probablement trop gênée ou fière
+
+Pour apprendre à tes enfants
+
+Une leçon qu’ils apprendront de toute manière
+
+Trop tard
+
+Beaucoup trop tard
+
+
