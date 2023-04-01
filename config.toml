@@ -15,9 +15,9 @@ posts = "/:filename/"
 quality = 99
 
 [params]
-description = "description"
+description = "Série de textes sur une ancienne belle-mère"
 homeMetaContent = ""
-footer = "Texte du footer"
+footer = "Tous les contenus de ce site sont sous license CC BY-NC-SA : Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions."
 dateFormat = "Jan 2, 2006"
 codePenUser = "someUser"
 katex = true
