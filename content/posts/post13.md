@@ -10,8 +10,8 @@ toc: true
 La science ne nous dit pas où nous allons - c’est le rôle de l’art - ; elle nous dit où nous sommes.
 {{< /blockquote >}}
 
-pendant [cette crise de ce dernier Noël](post12)  
-ta fille est venue me déranger  
+pendant [cette crise de ce dernier Noël](../post12)  
+ta fille est venue me déranger
 elle a créé un tas d’excuses  
 qu’elle comprend mieux ses erreurs  
 qu’elle travaille avec des gens comme moi, mais plus jeunes  
