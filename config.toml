@@ -15,7 +15,7 @@ posts = "/:filename/"
 quality = 99
 
 [params]
-description = "Série de textes sur une ancienne belle-mère"
+description = "L'Anti-mère"
 homeMetaContent = ""
 footer = "Tous les contenus de ce site sont sous license CC BY-NC-SA : Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions."
 dateFormat = "Jan 2, 2006"
