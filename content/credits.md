@@ -10,6 +10,7 @@ Hugo et le thème [original Cupper](https://github.com/ThePacielloGroup/cupper) 
 
 et les outils :  
 VsCodium  
-Github 
+Github
+Procreate (pour le logo)
 
 et l'aide de Mme Margot Mellet, dans le cadre du cours FRA3825 "Pratiques de l'édition numérique"

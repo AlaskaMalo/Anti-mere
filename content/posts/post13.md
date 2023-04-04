@@ -1,5 +1,5 @@
 ---
-title: "x"
+title: "Ta fille"
 date: 2019-02-14T15:36:09-06:00
 weight: 13
 tags: [blabla, récurrent]
@@ -10,7 +10,7 @@ toc: true
 La science ne nous dit pas où nous allons - c’est le rôle de l’art - ; elle nous dit où nous sommes.
 {{< /blockquote >}}
 
-pendant cette crise de ce dernier Noël  
+pendant [cette crise de ce dernier Noël](post12)  
 ta fille est venue me déranger  
 elle a créé un tas d’excuses  
 qu’elle comprend mieux ses erreurs  

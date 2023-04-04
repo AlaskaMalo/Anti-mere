@@ -16,7 +16,7 @@
     box-sizing: border-box;
 }
 html {
-    font-size: calc(1em + 0.33vw);
+    font-size: calc(1em + 0.3vw);
     font-family: "Lucida Handwriting", Lucida, cursive;
     line-height: 1.5;
     color: #ffffff;
@@ -115,14 +115,15 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: "Lucida Handwriting", Lucida, cursive;
     line-height: 1.125;
 }
 h1 {
-    font-size: 2rem;
+    font-size: 3rem;
+    font-family: "Lucida Handwriting", Lucida, cursive;
 }
 h2 {
     font-size: 1.66rem;
+    font-family: "Times New Roman", Times, serif;
 }
 h3 {
     font-size: 1.25rem;
@@ -130,7 +131,7 @@ h3 {
 h4,
 h5 {
     font-size: 1rem;
-    font-family: "Lucida Handwriting", Lucida, cursive;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h5 {
     font-size: 0.85rem;

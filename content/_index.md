@@ -10,7 +10,7 @@ En dix-sept ans, tu t’es attaché aux enfants
 Mais la douleur reste  
 Encrée en moi  
 
-Lacelle, ça s’adresse à toi  
+*Lacelle*, ça s’adresse à toi  
 Tu seras probablement trop gênée ou fière  
 Pour apprendre à tes enfants  
 Une leçon qu’ils apprendront de toute manière  
@@ -18,4 +18,6 @@ Trop tard
 
 Beaucoup trop tard
 
-
+{{< warning >}}
+Tout ce qui est dit sur ce site est de l'expérience personnelle de l'auteur.rice. Tout a été fait dans la *subjectivité*. 
+{{< /warning >}}
