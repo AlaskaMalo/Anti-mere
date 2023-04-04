@@ -1,6 +1,6 @@
 /* Fonts */
 @font-face {
-    font-family: 'Miriam Libre';
+    font-family: "Times New Roman", Times, serif;
     src: url('{{ "css/fonts/miriamlibre-bold.woff2" | absURL }}') format('woff2'), url('{{ "css/fonts/miriamlibre-bold.woff" | absURL }}') format('woff');
     font-weight: bold;
     font-style: normal;
@@ -17,7 +17,7 @@
 }
 html {
     font-size: calc(1em + 0.33vw);
-    font-family: Arial, sans-serif;
+    font-family: "Times New Roman", Times, serif;
     line-height: 1.5;
     color: #ffffff;
     background-color: #520505;
@@ -115,7 +115,7 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: Miriam Libre, serif;
+    font-family: "Times New Roman", Times, serif;
     line-height: 1.125;
 }
 h1 {
@@ -130,7 +130,7 @@ h3 {
 h4,
 h5 {
     font-size: 1rem;
-    font-family: PT Sans, sans-serif;
+    font-family: "Times New Roman", Times, serif;
 }
 h5 {
     font-size: 0.85rem;
@@ -152,7 +152,7 @@ pre,
     border: 1px solid;
 }
 code {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Times New Roman", Times, serif;
     font-size: 0.85em;
 }
 .cmd {
@@ -160,7 +160,7 @@ code {
     background: #111;
 }
 .cmd code {
-    color: #f2ebeb;
+    color: #ffffff;
     white-space: pre-wrap;
 }
 .cmd code::before {
@@ -621,7 +621,7 @@ pre[class*=language-] code * {
     overflow-x: auto;
 }
 .file-tree ul {
-    font-family: Courier, monospace;
+    font-family: "Times New Roman", Times, serif;
     margin: 0;
     padding: 0;
     padding-left: 3rem;
@@ -676,7 +676,7 @@ pre[class*=language-] code * {
 }
 [data-expands] {
     text-align: lxeft;
-    color: #111;
+    color: #ffffff;
     border: 0;
     background: none;
     width: 100%;
