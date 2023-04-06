@@ -6,8 +6,9 @@ tags: [blabla, récurrent]
 toc: true
 ---
 
-{{< blockquote author="Alan Turing, *Je suis intelligent*" >}}
-La science ne nous dit pas où nous allons - c’est le rôle de l’art - ; elle nous dit où nous sommes.
+{{< blockquote author="Agains the Current, *P.A.T.T.*" >}}
+If love is blind  
+Why do we got to be pretty all the times?
 {{< /blockquote >}}
 
 je pense qu’une partie de toi était jalouse de moi  

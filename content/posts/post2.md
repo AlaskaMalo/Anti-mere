@@ -6,8 +6,10 @@ tags: [blabla, récurrent]
 toc: true
 ---
 
-{{< blockquote author="Alan Turing, *Je suis intelligent*" >}}
-La science ne nous dit pas où nous allons - c’est le rôle de l’art - ; elle nous dit où nous sommes.
+{{< blockquote author="Agains the Current, *Outsiders*" >}}
+For every broken bones and every lie you've told  
+Every time you've lost and you can't find home  
+This is for the one whoi always feel alone
 {{< /blockquote >}}
 
 tristesse est-il que je suis différent  

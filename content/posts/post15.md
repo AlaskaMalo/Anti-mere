@@ -6,6 +6,11 @@ tags: [blabla, récurrent]
 toc: true
 ---
 
+{{< blockquote author="Agains the Current, *Strangers Again*" >}}
+I think it's better if we just pretend  
+We're just strangers again
+{{< /blockquote >}}
+
 peut-être qu’au fond  
 tu ne t’es jamais rendu compte du mal  
 que toi, tes enfants  

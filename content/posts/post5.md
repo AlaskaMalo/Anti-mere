@@ -6,8 +6,12 @@ tags: [blabla, récurrent]
 toc: true
 ---
 
-{{< blockquote author="Alan Turing, *Je suis intelligent*" >}}
-La science ne nous dit pas où nous allons - c’est le rôle de l’art - ; elle nous dit où nous sommes.
+{{< blockquote author="Agains the Current, *In Our Bones*" >}}
+Bruises come and go  
+But our hearts beat louder  
+Than the thunder from the storm  
+In our darkest hours  
+We are not invincible
 {{< /blockquote >}}
 
 un jour de l’an  

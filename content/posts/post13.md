@@ -6,8 +6,9 @@ tags: [blabla, récurrent]
 toc: true
 ---
 
-{{< blockquote author="Alan Turing, *Je suis intelligent*" >}}
-La science ne nous dit pas où nous allons - c’est le rôle de l’art - ; elle nous dit où nous sommes.
+{{< blockquote author="Agains the Current, *Talk*" >}}
+You say you really wanna change  
+But all you do is talk, talk, talk then walk the same way
 {{< /blockquote >}}
 
 pendant [cette crise de ce dernier Noël](../post12)  

@@ -6,8 +6,9 @@ tags: [blabla, récurrent]
 toc: true
 ---
 
-{{< blockquote author="Alan Turing, *Je suis intelligent*" >}}
-La science ne nous dit pas où nous allons - c’est le rôle de l’art - ; elle nous dit où nous sommes.
+{{< blockquote author="Agains the Current, *Comeback Kid*" >}}
+I'm gonna be a comeback kid & I want to fin the words I need to say  
+Yeah, I'm gonna survive with my head held high & finally walk away
 {{< /blockquote >}}
 
 « Dad, ça se dit-tu que je ne veux pas qu’Einna soit là à mon anniversaire?

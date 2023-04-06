@@ -6,8 +6,10 @@ tags: [blabla, récurrent]
 toc: true
 ---
 
-{{< blockquote author="Alan Turing, *Je suis intelligent*" >}}
-La science ne nous dit pas où nous allons - c’est le rôle de l’art - ; elle nous dit où nous sommes.
+{{< blockquote author="Agains the Current, *Brighter*" >}}
+I don't need a reason, to set the world on fire  
+And burn a little bit brighter now  
+There's something beautiful hiding in the shadows
 {{< /blockquote >}}
 
 à Mirabel, vous aviez une tradition  
