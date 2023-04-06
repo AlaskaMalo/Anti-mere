@@ -2,7 +2,7 @@
 title: "Préambule"
 date: 2019-02-14T15:36:09-06:00
 weight: 1
-tags: [Dad, récurrent]
+tags: [Dad, Esor, Yrahcaz, Sihtam]
 toc: true
 ---
 
