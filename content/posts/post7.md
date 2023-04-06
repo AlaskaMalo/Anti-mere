@@ -2,11 +2,11 @@
 title: "Tradition"
 date: 2019-02-14T15:36:09-06:00
 weight: 7
-tags: [blabla, récurrent]
+tags: [anniversaire, célébration]
 toc: true
 ---
 
-{{< blockquote author="Agains the Current, *Brighter*" >}}
+{{< blockquote author="Against the Current, *Brighter*" >}}
 I don't need a reason, to set the world on fire  
 And burn a little bit brighter now  
 There's something beautiful hiding in the shadows

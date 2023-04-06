@@ -2,11 +2,11 @@
 title: "Annonce"
 date: 2019-02-14T15:36:09-06:00
 weight: 14
-tags: [blabla, récurrent]
+tags: [soulagement, Dad]
 toc: true
 ---
 
-{{< blockquote author="Agains the Current, *Comeback Kid*" >}}
+{{< blockquote author="Against the Current, *Comeback Kid*" >}}
 I'm gonna be a comeback kid & I want to fin the words I need to say  
 Yeah, I'm gonna survive with my head held high & finally walk away
 {{< /blockquote >}}

@@ -2,11 +2,11 @@
 title: "Cheveux"
 date: 2019-02-14T15:36:09-06:00
 weight: 3
-tags: [blabla, récurrent]
+tags: [jalousie, apparence]
 toc: true
 ---
 
-{{< blockquote author="Agains the Current, *Paralyzed*" >}}
+{{< blockquote author="Against the Current, *Paralyzed*" >}}
 If I fall, let me fall, I might take sometime  
 But I'll find my own way out
 {{< /blockquote >}}

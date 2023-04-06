@@ -6,7 +6,7 @@ tags: [blabla, récurrent]
 toc: true
 ---
 
-{{< blockquote author="Agains the Current, *Outsiders*" >}}
+{{< blockquote author="Against the Current, *Outsiders*" >}}
 For every broken bones and every lie you've told  
 Every time you've lost and you can't find home  
 This is for the one whoi always feel alone
@@ -22,8 +22,6 @@ je suis seul dans ma petite chambre
 dessin dans un carnet  
 ou sur scène en Bec-de-lièvre ou en Ophélie  
 illes n’y prêtent pas attention
-
-
 
 voilà pourquoi je préfère ma mère transphobe  
 à ma belle-mère de la DPJ

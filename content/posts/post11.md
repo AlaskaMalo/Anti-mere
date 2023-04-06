@@ -2,11 +2,11 @@
 title: "je n'étais conscient de rien alors"
 date: 2019-02-14T15:36:09-06:00
 weight: 11
-tags: [blabla, récurrent]
+tags: [soulagement]
 toc: true
 ---
 
-{{< blockquote author="Agains the Current, *lullaby*" >}}
+{{< blockquote author="Against the Current, *lullaby*" >}}
 Tell me how you sleep at night  
 It doesn't seem fair  
 How the hell you dreaming  

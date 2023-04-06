@@ -2,11 +2,11 @@
 title: "Peut-être"
 date: 2019-02-14T15:36:09-06:00
 weight: 15
-tags: [blabla, récurrent]
+tags: [soulagement, anxiété]
 toc: true
 ---
 
-{{< blockquote author="Agains the Current, *Strangers Again*" >}}
+{{< blockquote author="Against the Current, *Strangers Again*" >}}
 I think it's better if we just pretend  
 We're just strangers again
 {{< /blockquote >}}
@@ -14,11 +14,20 @@ We're just strangers again
 peut-être qu’au fond  
 tu ne t’es jamais rendu compte du mal  
 que toi, tes enfants  
-aviez causé dans mon esprit  
+aviez causé dans mon esprit   
 
-que ton "que de beaux defis à venir"  
-un an après ta rupture, à ma fête,  
-était innocent malgré la formule étrange  
+encore aujourd'hui
+je me demande si tout ça n'est que dans ma tête
+que je me mets sous la douleur
+sans raison
+que je te blâme de tout
+parce que c'est plus facile
+
+mais je me rappelle ces événements
+je me rappelle de mes amies venant à Mirabel
+me disant que je n'utilisais que
+des euphémismes
+pour vous décrire
 
 alors je me demande comment ça se fait que tu travailles à cet endroit  
 où tu dois voir les problèmes dans les différents foyers  

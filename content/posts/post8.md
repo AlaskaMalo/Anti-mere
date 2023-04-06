@@ -2,11 +2,11 @@
 title: "Poitrine"
 date: 2019-02-14T15:36:09-06:00
 weight: 8
-tags: [blabla, récurrent]
+tags: [jalousie, apparence]
 toc: true
 ---
 
-{{< blockquote author="Agains the Current, *P.A.T.T.*" >}}
+{{< blockquote author="Against the Current, *P.A.T.T.*" >}}
 If love is blind  
 Why do we got to be pretty all the times?
 {{< /blockquote >}}

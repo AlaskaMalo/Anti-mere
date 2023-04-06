@@ -2,11 +2,11 @@
 title: "Suicide"
 date: 2019-02-14T15:36:09-06:00
 weight: 10
-tags: [blabla, récurrent]
+tags: [soulagement, anxiété]
 toc: true
 ---
 
-{{< blockquote author="Agains the Current, *weapon*" >}}
+{{< blockquote author="Against the Current, *weapon*" >}}
 I seem fine  
 But I can't take the highs and the lows  
 All I am is a weapon

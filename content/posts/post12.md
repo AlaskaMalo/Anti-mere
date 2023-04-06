@@ -2,11 +2,11 @@
 title: "Dernier Noël"
 date: 2019-02-14T15:36:09-06:00
 weight: 12
-tags: [blabla, récurrent]
+tags: [célébration, Noël, anxiété]
 toc: true
 ---
 
-{{< blockquote author="Agains the Current, *again&again*" >}}
+{{< blockquote author="Against the Current, *again&again*" >}}
 Can somebody stop time?  
 Keep my hands from shaking  
 I've tried but somehow I'm breaking  

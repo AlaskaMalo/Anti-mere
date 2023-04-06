@@ -2,11 +2,11 @@
 title: "Ta fille"
 date: 2019-02-14T15:36:09-06:00
 weight: 13
-tags: [blabla, récurrent]
+tags: [anxiété, Esor, Noël, Dad]
 toc: true
 ---
 
-{{< blockquote author="Agains the Current, *Talk*" >}}
+{{< blockquote author="Against the Current, *Talk*" >}}
 You say you really wanna change  
 But all you do is talk, talk, talk then walk the same way
 {{< /blockquote >}}

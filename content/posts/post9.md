@@ -2,11 +2,11 @@
 title: "Psychologue"
 date: 2019-02-14T15:36:09-06:00
 weight: 9
-tags: [blabla, récurrent]
+tags: [père, soulagement]
 toc: true
 ---
 
-{{< blockquote author="Agains the Current, *that won't save us*" >}}
+{{< blockquote author="Against the Current, *that won't save us*" >}}
 Yeah, the bigger they are, the harder they fall  
 And I got so sick of feeling so small
 {{< /blockquote >}}

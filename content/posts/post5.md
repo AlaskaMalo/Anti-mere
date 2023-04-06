@@ -2,11 +2,11 @@
 title: "Un jour de l'An"
 date: 2019-02-14T15:36:09-06:00
 weight: 5
-tags: [blabla, récurrent]
+tags: [célébration, anxiété]
 toc: true
 ---
 
-{{< blockquote author="Agains the Current, *In Our Bones*" >}}
+{{< blockquote author="Against the Current, *In Our Bones*" >}}
 Bruises come and go  
 But our hearts beat louder  
 Than the thunder from the storm  
