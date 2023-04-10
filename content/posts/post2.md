@@ -1,7 +1,7 @@
 ---
 title: "Artiste parmi les sportifs"
 date: 2019-02-14T15:36:09-06:00
-weight: 2
+weight: 1 
 tags: [Dad, Esor, Yrahcaz, Sihtam]
 toc: true
 ---
