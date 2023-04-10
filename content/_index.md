@@ -35,3 +35,14 @@ Je t'ai déjà nommé Anti-mère
 {{< warning >}}
 Tout ce qui est dit sur ce site est de l'expérience personnelle de l'auteur.rice. Tout a été fait dans la *subjectivité*. 
 {{< /warning >}}
+
+## À ce groupe qui a toujours été là pour moi  
+Against the Current
+Vous ne verrez probablement pas ce message
+Vous ne saurez probablement jamais l'existence de ce site
+Je doute même que l'un de vous connaisse le français
+Votre musique m'a marqué, m'a calmé
+Dans les moments les plus sombres
+Où j'étais à deux pas du gouffre
+
+Je vous remercie
