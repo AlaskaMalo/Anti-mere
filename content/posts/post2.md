@@ -32,6 +32,8 @@ que j’étais, que je devais être
 l’artiste parmi les sportifs  
 une fin de semaine sur deux
 
+(image)
+
 
 [^1]: J'aurais pu dédier ce projet à cette autre Anti-mère. Peut-être quand l'envie m'en viendra.
 [^2]: Personnage de [Sainte-Carmen de la Main](https://www.leslibraires.ca/livres/sainte-carmen-de-la-main-michel-tremblay-9782760901735.html), écrit par Michel Tremblay.
