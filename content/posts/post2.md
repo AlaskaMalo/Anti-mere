@@ -1,7 +1,7 @@
 ---
 title: "Artiste parmi les sportifs"
 date: 2019-02-14T15:36:09-06:00
-weight: 2
+weight: 0
 tags: [Dad, Esor, Yrahcaz, Sihtam]
 toc: true
 ---
@@ -20,10 +20,10 @@ et les gymnases pour la fleur
 je suis seul dans ma petite chambre  
 écriture à l’ASUS ou au HP  
 dessin dans un carnet  
-ou sur scène en Bec-de-lièvre ou en Ophélie  
+ou sur scène en Bec-de-lièvre[^2] ou en Ophélie[^3]  
 illes n’y prêtent pas attention
 
-voilà pourquoi je préfère ma mère transphobe  
+voilà pourquoi je préfère ma mère transphobe[^1]  
 à ma belle-mère de la DPJ
 
 dès mes 8 ans  
@@ -31,3 +31,8 @@ je disais, j’affirmais, je savais
 que j’étais, que je devais être  
 l’artiste parmi les sportifs  
 une fin de semaine sur deux
+
+
+[^1]: J'aurais pu dédier ce projet à cette autre Anti-mère. Peut-être quand l'envie m'en viendra.
+[^2]: Personnage de [Sainte-Carmen de la Main](https://www.leslibraires.ca/livres/sainte-carmen-de-la-main-michel-tremblay-9782760901735.html), écrit par Michel Tremblay.
+[^3]: Reprise du personnage de Hamlet de Shakespeare, dans l'adaptation de [Macbeth](https://www.leslibraires.ca/livres/macbeth-alain-chaperon-9782923445496.html) pour le secondaire par Alain Chaperon.
