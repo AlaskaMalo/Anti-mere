@@ -17,7 +17,7 @@ quality = 99
 [params]
 description = "L'Anti-mère"
 homeMetaContent = ""
-footer = [footer.md]
+footer = [ "footer.md" ]
 dateFormat = "Jan 2, 2006"
 codePenUser = "someUser"
 katex = true
