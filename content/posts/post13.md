@@ -6,7 +6,7 @@ tags: [anxiété, Esor, Noël, Dad]
 toc: true
 ---
 
-{{< blockquote author="Against the Current, *Talk*" >}}
+{{< blockquote author="Against the Current,  « Talk », *Gravity - EP*" >}}
 You say you really wanna change  
 But all you do is talk, talk, talk then walk the same way
 {{< /blockquote >}}

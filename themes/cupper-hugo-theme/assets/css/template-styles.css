@@ -81,7 +81,7 @@ a {
 /* Katex math typesetting */
 .katex * {
     margin-top: 0;
-    background-color: transparent;
+    background-color: #e1bbbb;
 }
 
 /* Fix for IE :( */
@@ -170,7 +170,7 @@ code {
     padding-right: 0.25em;
 }
 .cmd code::selection{
-    background: #6b4848;
+    background: #c92626;
     color: rgba(0,0,0,.8);
 }
 /* Lists */
@@ -783,7 +783,7 @@ h1 svg {
 .colors span {
     line-height: 1;
     background-color: #111;
-    color: #520505;
+    color: #b77676;
     font-size: 0.75rem;
     padding: 0.25rem;
     position: absolute;

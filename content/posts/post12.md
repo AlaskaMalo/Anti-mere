@@ -6,7 +6,7 @@ tags: [célébration, Noël, anxiété]
 toc: true
 ---
 
-{{< blockquote author="Against the Current, *again&again*" >}}
+{{< blockquote author="Against the Current, « again&again », *fever*" >}}
 Can somebody stop time?  
 Keep my hands from shaking  
 I've tried but somehow I'm breaking  

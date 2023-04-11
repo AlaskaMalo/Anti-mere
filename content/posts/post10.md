@@ -6,7 +6,7 @@ tags: [soulagement, anxiété]
 toc: true
 ---
 
-{{< blockquote author="Against the Current, *weapon*" >}}
+{{< blockquote author="Against the Current,  « weapon », *fever*" >}}
 I seem fine  
 But I can't take the highs and the lows  
 All I am is a weapon

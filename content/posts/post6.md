@@ -6,7 +6,7 @@ tags: [anniversaire, célébration, Dad, apparence]
 toc: true
 ---
 
-{{< blockquote author="Against the Current, *shatter*" >}}
+{{< blockquote author="Against the Current,  « shatter », *fever*" >}}
 Your skin is made of glass
 And I wanna throw stones
 {{< /blockquote >}}
@@ -17,7 +17,7 @@ contrairement à celles des joueurs de hockey que tu hébergeais
 (pardon, vous)
 
 quand mon anniversaire est devenu ton occasion  
-à toi et ta fille  
+à toi et ta [fille](../post13) 
 de vous vanter de vos histoires  
 du haut niveau de gymnaste  
 ou d’admission collégiale trouvée dans un « roule-le-rebord »  

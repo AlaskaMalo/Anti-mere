@@ -6,7 +6,7 @@ tags: [Noël, fils]
 toc: true
 ---
 
-{{< blockquote author="Against the Current, *Voices*" >}}
+{{< blockquote author="Against the Current,  « Voices » *Past Lives*" >}}
 When will the voices stop making trouble inside?  
 If I look in the mirror will I see through their eyes?  
 When will the voices in my head just stop and let me rest?

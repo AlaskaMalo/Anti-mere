@@ -6,7 +6,7 @@ tags: [père, soulagement]
 toc: true
 ---
 
-{{< blockquote author="Against the Current, *that won't save us*" >}}
+{{< blockquote author="Against the Current,  « that won't save us », *fever*" >}}
 Yeah, the bigger they are, the harder they fall  
 And I got so sick of feeling so small
 {{< /blockquote >}}

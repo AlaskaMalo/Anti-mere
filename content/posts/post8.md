@@ -6,7 +6,7 @@ tags: [jalousie, apparence]
 toc: true
 ---
 
-{{< blockquote author="Against the Current, *P.A.T.T.*" >}}
+{{< blockquote author="Against the Current, « P.A.T.T. », *Past Lives*" >}}
 If love is blind  
 Why do we got to be pretty all the times?
 {{< /blockquote >}}

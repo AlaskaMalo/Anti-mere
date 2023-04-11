@@ -37,4 +37,4 @@ une fin de semaine sur deux
 
 [^1]: J'aurais pu dédier ce projet à cette autre Anti-mère. Peut-être quand l'envie m'en viendra.
 [^2]: Personnage de [Sainte-Carmen de la Main](https://www.leslibraires.ca/livres/sainte-carmen-de-la-main-michel-tremblay-9782760901735.html), écrit par Michel Tremblay.
-[^3]: Reprise du personnage de Hamlet de Shakespeare, dans l'adaptation de [Macbeth](https://www.leslibraires.ca/livres/macbeth-alain-chaperon-9782923445496.html) pour le secondaire par Alain Chaperon.
+[^3]: Reprise du personnage de *Hamlet* de Shakespeare, dans l'adaptation de [Macbeth](https://www.leslibraires.ca/livres/macbeth-alain-chaperon-9782923445496.html) pour le secondaire par Alain Chaperon.
