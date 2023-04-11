@@ -6,7 +6,7 @@ tags: [anniversaire, célébration, Dad, apparence]
 toc: true
 ---
 
-{{< blockquote author="Against the Current,  « shatter », *fever*" >}}
+{{< blockquote author="Against the Current, « shatter », *fever*" >}}
 Your skin is made of glass
 And I wanna throw stones
 {{< /blockquote >}}

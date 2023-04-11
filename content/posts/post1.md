@@ -6,7 +6,7 @@ tags: [Dad, Esor, Yrahcaz, Sihtam]
 toc: true
 ---
 
-{{< blockquote author="Against the Current, « Demons » , *In Our Bones*" >}}
+{{< blockquote author="Against the Current, « Demons », *In Our Bones*" >}}
 My soul it seems so obvious  
 That I should put a end to this  
 But demons take control  

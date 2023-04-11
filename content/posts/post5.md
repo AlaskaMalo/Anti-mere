@@ -6,7 +6,7 @@ tags: [célébration, anxiété]
 toc: true
 ---
 
-{{< blockquote author="Against the Current,  « In Our Bones » *In Our Bones*" >}}
+{{< blockquote author="Against the Current, « In Our Bones », *In Our Bones*" >}}
 Bruises come and go  
 But our hearts beat louder  
 Than the thunder from the storm  

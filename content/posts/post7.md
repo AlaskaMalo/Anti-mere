@@ -6,7 +6,7 @@ tags: [anniversaire, célébration]
 toc: true
 ---
 
-{{< blockquote author="Against the Current,  « Brighter », *Gravity - EP*" >}}
+{{< blockquote author="Against the Current, « Brighter », *Gravity - EP*" >}}
 I don't need a reason, to set the world on fire  
 And burn a little bit brighter now  
 There's something beautiful hiding in the shadows

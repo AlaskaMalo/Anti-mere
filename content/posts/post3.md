@@ -6,7 +6,7 @@ tags: [jalousie, apparence]
 toc: true
 ---
 
-{{< blockquote author="Against the Current,  « Paralyzed » *Grabity -EP*" >}}
+{{< blockquote author="Against the Current, « Paralyzed », *Gravity - EP*" >}}
 If I fall, let me fall, I might take sometime  
 But I'll find my own way out
 {{< /blockquote >}}

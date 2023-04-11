@@ -6,7 +6,7 @@ tags: [soulagement]
 toc: true
 ---
 
-{{< blockquote author="Against the Current,  « lullaby », *fever*" >}}
+{{< blockquote author="Against the Current, « lullaby », *fever*" >}}
 Tell me how you sleep at night  
 It doesn't seem fair  
 How the hell you dreaming  

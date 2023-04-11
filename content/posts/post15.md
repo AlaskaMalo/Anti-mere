@@ -6,7 +6,7 @@ tags: [soulagement, anxiété]
 toc: true
 ---
 
-{{< blockquote author="Against the Current, *Strangers Again*" >}}
+{{< blockquote author="Against the Current, « Strangers Again », *Past Lives*" >}}
 I think it's better if we just pretend  
 We're just strangers again
 {{< /blockquote >}}

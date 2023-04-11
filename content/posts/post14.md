@@ -6,7 +6,7 @@ tags: [soulagement, Dad]
 toc: true
 ---
 
-{{< blockquote author="Against the Current,  « Comeback Kid », *Infinity*" >}}
+{{< blockquote author="Against the Current, « Comeback Kid », *Infinity*" >}}
 I'm gonna be a comeback kid & I want to fin the words I need to say  
 Yeah, I'm gonna survive with my head held high & finally walk away
 {{< /blockquote >}}

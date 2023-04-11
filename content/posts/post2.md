@@ -6,7 +6,7 @@ tags: [Dad, Esor, Yrahcaz, Sihtam]
 toc: true
 ---
 
-{{< blockquote author="Against the Current, « Outsiders » *Outsiders - Single*" >}}
+{{< blockquote author="Against the Current, « Outsiders », *Outsiders - Single*" >}}
 For every broken bones and every lie you've told  
 Every time you've lost and you can't find home  
 This is for the ones who always feel alone
