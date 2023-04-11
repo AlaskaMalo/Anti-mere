@@ -170,7 +170,7 @@ code {
     padding-right: 0.25em;
 }
 .cmd code::selection{
-    background: #c92626;
+    background: transparent;
     color: rgba(0,0,0,.8);
 }
 /* Lists */
@@ -249,7 +249,7 @@ label {
   margin: 0.5rem;
 }
 [for="themer"] [aria-hidden]::before {
-  content: 'ligth mode';
+  content: 'light mode';
 }
 [for="themer"] :checked + [aria-hidden]::before {
   content: 'dark mode';
@@ -985,7 +985,7 @@ h1 svg {
         content: '';
     }
     .cmd code {
-        background: #520505;
+        background: transparent;
         color: #111;
     }
     pre code {

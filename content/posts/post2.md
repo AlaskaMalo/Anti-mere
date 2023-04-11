@@ -32,7 +32,7 @@ que j’étais, que je devais être
 l’artiste parmi les sportifs  
 une fin de semaine sur deux
 
-![artiste](..artiste.png)
+![artiste](../images/artiste.png)
 
 
 [^1]: J'aurais pu dédier ce projet à cette autre Anti-mère. Peut-être quand l'envie m'en viendra.

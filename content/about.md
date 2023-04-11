@@ -5,4 +5,4 @@ title: "À propos"
 
 Série de textes sur mon ancienne belle-mère.
 
-![visage avec caché par une main avec un collier](/portrait.png)
+![visage avec caché par une main avec un collier](../images/portrait.png)
