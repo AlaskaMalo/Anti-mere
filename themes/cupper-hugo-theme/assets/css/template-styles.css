@@ -249,10 +249,10 @@ label {
   margin: 0.5rem;
 }
 [for="themer"] [aria-hidden]::before {
-  content: 'mode Enfant';
+  content: 'mode enfant';
 }
 [for="themer"] :checked + [aria-hidden]::before {
-  content: 'mode Anti-mère';
+  content: 'mode anti-mère';
 }
 
 /* Tables */

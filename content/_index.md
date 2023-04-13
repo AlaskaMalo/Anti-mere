@@ -37,13 +37,13 @@ Beaucoup trop tard
 Je t'ai déjà nommé Anti-mère [^1]
 
 ## À ce groupe qui a toujours été là pour moi  
-Against the Current
-Vous ne verrez probablement pas ce message
-Vous ne saurez probablement jamais l'existence de ce site
-Je doute même que l'un de vous connaisse le français
-Votre musique m'a marqué, m'a calmé
-Dans les moments les plus sombres
-Où j'étais à deux pas du gouffre
+Against the Current  
+Vous ne verrez probablement pas ce message  
+Vous ne saurez probablement jamais l'existence de ce site  
+Je doute même que l'un de vous connaisse le français  
+Votre musique m'a marqué, m'a calmé  
+Dans les moments les plus sombres  
+Où j'étais à deux pas du gouffre  
 
 Je vous remercie
 
