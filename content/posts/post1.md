@@ -4,6 +4,7 @@ date: 2019-02-14T15:36:09-06:00
 weight: 2
 tags: [Dad, Esor, Yrahcaz, Sihtam]
 toc: true
+datehate: "Date de l'événement: 2005"
 ---
 
 {{< blockquote author="Against the Current, « Demons », *In Our Bones*" >}}

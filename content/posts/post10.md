@@ -4,6 +4,7 @@ date: 2019-02-14T15:36:09-06:00
 weight: 10
 tags: [soulagement, anxiété]
 toc: true
+datehate: "Date de l'événement: Février 2015"
 ---
 
 {{< blockquote author="Against the Current, « weapon », *fever*" >}}

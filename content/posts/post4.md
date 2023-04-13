@@ -4,6 +4,7 @@ date: 2019-02-14T15:36:09-06:00
 weight: 4
 tags: [Noël, fils]
 toc: true
+datehate: "Date de l'événement: 2010 et 2012"
 ---
 
 {{< blockquote author="Against the Current, « Voices », *Past Lives*" >}}

@@ -4,6 +4,7 @@ date: 2019-02-14T15:36:09-06:00
 weight: 3
 tags: [jalousie, apparence]
 toc: true
+datehate: "Date de l'événement: Été 2008"
 ---
 
 {{< blockquote author="Against the Current, « Paralyzed », *Gravity - EP*" >}}

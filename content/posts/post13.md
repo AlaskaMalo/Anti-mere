@@ -4,6 +4,7 @@ date: 2019-02-14T15:36:09-06:00
 weight: 13
 tags: [anxiété, Esor, Noël, Dad]
 toc: true
+datehate: "Date de l'événement: Décembre 2019"
 ---
 
 {{< blockquote author="Against the Current, « Talk », *Gravity - EP*" >}}

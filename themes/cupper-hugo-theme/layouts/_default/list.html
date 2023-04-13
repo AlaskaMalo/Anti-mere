@@ -12,7 +12,7 @@
   <ul class="patterns-list" id="list">
     {{ range .Pages.ByWeight }}
     <li>
-      <h2>
+      <h2> 
         <a href="{{ .RelPermalink }}">
           <svg
             class="bookmark"
@@ -25,7 +25,7 @@
           {{ .Title }}
         </a>
       </h2>
-    </li>
+    </li> {{ .Params.datehate }}
     {{ end }}
   </ul>
 </main>
